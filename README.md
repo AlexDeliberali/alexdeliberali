@@ -8,7 +8,7 @@ Ultimamente estou utilizando meu tempo livre para aumentar meus conhecimentos e 
 
 ### Ferramentas e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width = "40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width = "50" height="50"/> 
 
 
 ### Estou aprendendo
@@ -27,12 +27,9 @@ Ultimamente estou utilizando meu tempo livre para aumentar meus conhecimentos e 
 
 <div>
 <a href="https://github.com/alexdeliberali">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexdeliberali&layout=compact&langs_count=7&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexdeliberali&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=alexdeliberali&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexdeliberali&layout=compact&langs_count=7&theme=dark"/> 
 </div>
 
- 
- ![Snake animation](https://github.com/alexdeliberali/alexdeliberali/blob/output/github-contribution-grid-snake.svg)
 <!--
 **AlexDeliberali/alexdeliberali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
