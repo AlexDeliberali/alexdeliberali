@@ -1,7 +1,7 @@
 ### Olá, me chamo Alex Deliberali. 👊
 
-Me formei no curso de Sistemas da Informação em Dez/2019 na Universidade Metodista de Piracicaba - UNIMEP, no momento estou em busca de uma oportunidade de trabalho como desenvolvedor, pois ainda não atuo na área de desenvolvimento.
-Já realizei alguns projetos durante o período da faculdade utilizando a linguagem PHP, e no momento estou estudando Java e JavaScript.
+Tenho 24 anos e me formei no curso de Sistemas da Informação em Dez/2019 na Universidade Metodista de Piracicaba - UNIMEP, no momento estou em busca de uma oportunidade de trabalho como desenvolvedor, pois ainda não atuo na área.
+Já realizei alguns projetos durante o período da faculdade utilizando a linguagem PHP, no momento estou estudando Java e JavaScript.
 Ultimamente estou utilizando meu tempo livre para aumentar meus conhecimentos e desenvolver alguns projetos pessoais, a fim de aprender a utilizar a ferramenta por completo. E quando não estou estudando, passo um tempo assistindo séries/filmes e/ou jogando.
 
 
