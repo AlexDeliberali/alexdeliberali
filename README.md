@@ -1,6 +1,6 @@
 ### Olá, me chamo Alex Deliberali. 👊
 
-Tenho 25 anos e me formei no curso de Sistemas da Informação em Dez/2019 na Universidade Metodista de Piracicaba - UNIMEP, no momento trabalho como Analista de Sistemas Trainee na área do desenvolvimento com a linguagem Visual Basic 6.
+Tenho 26 anos e me formei no curso de Sistemas da Informação em Dez/2019 na Universidade Metodista de Piracicaba - UNIMEP, no momento trabalho como Analista de Sistemas Trainee na área do desenvolvimento com a linguagem Visual Basic 6.
 Já realizei alguns projetos utilizando a linguagem PHP, Java, JavaScript.
 Ultimamente estou utilizando meu tempo livre para aumentar meus conhecimentos e desenvolver alguns projetos pessoais, a fim de aprender a utilizar a ferramenta por completo.
 
