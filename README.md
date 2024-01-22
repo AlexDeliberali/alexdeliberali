@@ -2,13 +2,13 @@
 
 Tenho 26 anos e me formei no curso de Sistemas da Informação em Dez/2019 na Universidade Metodista de Piracicaba - UNIMEP, no momento trabalho como Analista de Sistemas Trainee na área do desenvolvimento com a linguagem Visual Basic 6.
 Já realizei alguns projetos utilizando a linguagem PHP, Java, JavaScript.
-Ultimamente estou utilizando meu tempo livre para aumentar meus conhecimentos e desenvolver alguns projetos pessoais, a fim de aprender a utilizar a ferramenta por completo.
+Ultimamente estou utilizando meu tempo livre para me aperfeiçoar na linguagem C# utilizando o padrão MVC, com foco em .NET6 e framework Entity Framework Core.
 
 
 
 ### Ferramentas e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width ="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width ="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width ="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"  width ="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width = "40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width ="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  width ="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width ="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width ="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width ="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width ="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width = "40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width ="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  width ="50" height="50" />
           
 
 
