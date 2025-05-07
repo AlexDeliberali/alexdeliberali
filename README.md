@@ -3,7 +3,7 @@
 Tenho 27 anos e me formei no curso de Sistemas da Informação em Dez/2019 na Universidade Metodista de Piracicaba - UNIMEP, no momento trabalho como Software Developer I na área do suporte com as linguagens Visual Basic 6 / Cordova / C# / JS.\
 Realizo a manutenção e desenvolvimento de Query's / Trigger's / Procedure's para SQL Server e PL/SQL.\
 Já realizei alguns projetos utilizando a linguagem PHP, Java, JavaScript.\
-Ultimamente estou utilizando meu tempo livre para me aperfeiçoar na linguagem C# utilizando o padrão MVC, com foco em .NET6 e framework Entity Framework Core. E estou me aperfeiçoando na linguagem JavaScript.\
+Ultimamente estou utilizando meu tempo livre para me aperfeiçoar na linguagem C# utilizando o padrão MVC, com foco em .NET6 e framework Entity Framework Core. E estou me aperfeiçoando na linguagem JavaScript.
 
 
 
